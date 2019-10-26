@@ -1,6 +1,6 @@
-# Business Series
+# Application Series
 
-对于行业应用与功能域的思考，电子商务，智能制造，CMS，IM，etc.
+在前端、后端、算法三大基石之上的，对于行业应用与功能域的思考，电子商务，智能制造，CMS，IM，等等。
 
 # Preface | 前言
 
