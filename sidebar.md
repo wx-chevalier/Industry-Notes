@@ -5,6 +5,8 @@
       - [目录服务](/HCM/组织结构/目录服务.md)
   - [hpaPaaS](/hpaPaaS/README.md)
     
+  - [sidebar copy](/sidebar%20copy.md)
+  - [sidebar](/sidebar.md)
   - [智能制造](/智能制造/README.md)
     - 3D 建模
       - [Magics](/智能制造/3D%20建模/Magics/README.md)
