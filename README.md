@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/Application-Series"><strong>在线阅读</strong></a>
+    <a href="https://github.com/wx-chevalier/Application-Series"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier/Application-Series">速览手册</a>
