@@ -1,19 +1,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wx-chevalier/Application-Series">
+  <a href="https://github.com/wx-chevalier/Application-Notes">
     <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/Application-Series"><strong>在线阅读 >> </strong></a>
+    <a href="https://github.com/wx-chevalier/Application-Notes"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/Application-Series">速览手册</a>
+    <a href="https://github.com/wx-chevalier/Application-Notes">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/Application-Series/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/Application-Notes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/wx-chevalier/Application-Series/issues">参考资料</a>
+    <a href="https://github.com/wx-chevalier/Application-Notes/issues">参考资料</a>
 
   </p>
 </p>
